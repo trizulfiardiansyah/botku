@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm triZlfArdSyh
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm triZlfArdSyh👋
 <p align="center">
 <img src="https://github.com/triZlf/BOT/blob/main/temp/20201214_110934.png" width="230" height="230"/>
 </p>
